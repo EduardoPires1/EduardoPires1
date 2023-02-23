@@ -1,4 +1,4 @@
-Olá! Sou o EduardoPires1
+Olá! Sou o Eduardo Pires!
 
 - 🌱 I’m currently learning: JS
 - 📫 How to reach me: dadu.pires@gmail.com
