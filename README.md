@@ -1,5 +1,9 @@
 Olá! Sou o Eduardo!
 
+![Eduardo Pires GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoPires1&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoPires1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 - 🌱 I’m currently learning: JS
 - 📫 How to reach me: dadu.pires@gmail.com
 
