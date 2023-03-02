@@ -4,8 +4,8 @@ Olá! Sou o Eduardo!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoPires1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-- 🌱 I’m currently learning: JS
-- 📫 How to reach me: dadu.pires@gmail.com
+- 🌱 No momento estou aprendendo: JS
+- 📫 Como me contatar?: dadu.pires@gmail.com
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
